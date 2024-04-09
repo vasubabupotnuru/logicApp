@@ -1,0 +1,30 @@
+{
+  "data": {
+    "clin_xcpt": [
+      {
+        "clin_xcpt_id": "4",
+        "policyId": "730152",
+        "customerName": "HCA Healthcare",
+        "trackingNumber": 987654,
+        "lineOfBusinessRefId": 19973,
+        "fundingArrangementRefId": 355,
+        "exceptioncategoryRefId": 1233,
+        "clin_xcpt_txt": "Dedicated to Buffalo Intake: 866-365-3334 | Member Services: 877-885-8451 | Provider Services: 877-842-3210 | Outpatient WQ: HCAOP | Inpatient WQ: HCAIP | OrthoNet WQ: ONHCACA",
+        "strt_dt": "2024-04-03",
+        "end_dt": "2024-04-03"
+      },
+      {
+        "clin_xcpt_id": "1",
+        "policyId": "730152",
+        "customerName": "HCA Healthcare",
+        "trackingNumber": 123456,
+        "lineOfBusinessRefId": 19973,
+        "fundingArrangementRefId": 355,
+        "exceptioncategoryRefId": 344,
+        "clin_xcpt_txt": "OON providers and members may request gaps.Please exclude from Gap Form process.",
+        "strt_dt": "2024-04-02",
+        "end_dt": "2024-04-02"
+      }
+    ]
+  }
+}
